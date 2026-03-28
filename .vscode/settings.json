@@ -1,0 +1,7 @@
+{
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingModuleSource": "none",
+    "reportMissingImports": "none"
+  },
+  "python.analysis.ignore": ["RacePlanMobile_Kivy.py"]
+}

@@ -1,3 +1,8 @@
+# Buildozer outputs
+/.buildozer/
+/bin/
+*.apk
+
 /60k-xanthe-utms-otomi-2025.gpx
 /raceplan.py
 /raceplantime.py
